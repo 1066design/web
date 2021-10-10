@@ -15,11 +15,11 @@
   * [Markdown]()
   * [Text]()
   * [Pdf]()
-  * [Docx]
+  * [Docx]()
 
-[Interests]
+[Interests]()
 
- * [Code]
- * [Art]
- * [Music]
- * [Games]
+ * [Code]()
+ * [Art]()
+ * [Music]()
+ * [Games]()
