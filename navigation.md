@@ -1,11 +1,12 @@
 # 1066design.com
 
 [home](index.md)
+
 [social]()
 
- * [Email](mailto:1066design@gmail.com)
+ * [Email - 1066design@gmail.com](mailto:1066design@gmail.com)
+ * [Phone - 443-597-9182](mailto:1066design@gmail.com)
  * [LinkedIn](https://www.google.com)
- * [Twitter]()
  * [Discord]()
  * [Instagram]()
  * [Github](https://1066design.github.io/)
@@ -23,3 +24,11 @@
  * [Art]()
  * [Music]()
  * [Games]()
+ 
+[Projects]()
+
+ * [Noth]()
+ * [MdTiki]()
+ * [GisLite]()
+
+
