@@ -5,13 +5,12 @@
 
  * [Email](mailto:1066design@gmail.com)
  * [LinkedIn](https://www.google.com)
- * [Twitter](https://www.google.com)
- * [Discord](https://www.google.com)
- * [Youtube](https://www.google.com)
- * [Instagram](https://www.google.com)
- * [Github](https://www.google.com)
+ * [Twitter]()
+ * [Discord]()
+ * [Instagram]()
+ * [Github](https://1066design.github.io/)
 
- [cv]
+[cv]()
 
   * [Markdown]()
   * [Text]()
